@@ -1,0 +1,33 @@
+2023-10-22 16:53:16.558  4367-4367  MainActivity            com.example.quizexercise1            D  Called lifecycle method : onStart
+2023-10-22 16:53:16.560  4367-4367  MainActivity            com.example.quizexercise1            D  Called lifecycle method: onResume  	 -> uruchomienie aplikacji
+2023-10-22 16:53:42.577  4367-4367  MainActivity            com.example.quizexercise1            D  Called lifecycle method: onPause
+2023-10-22 16:53:42.613  4367-4367  MainActivity            com.example.quizexercise1            D  Called lifecycle method: onStop	 -> wyjscie z okna aplikacji 
+2023-10-22 16:54:23.697  4367-4367  MainActivity            com.example.quizexercise1            D  Called lifecycle method : onStart
+2023-10-22 16:54:23.698  4367-4367  MainActivity            com.example.quizexercise1            D  Called lifecycle method: onResume    -> powrot do aplikacji
+2023-10-22 16:54:52.942  4367-4367  MainActivity            com.example.quizexercise1            D  Called lifecycle method: onStop
+2023-10-22 16:54:52.949  4367-4367  MainActivity            com.example.quizexercise1            D  Called lifecycle method: onDestroy   -> wyjscie z aplikacji oraz usuniecie jej z dzialajacych kart
+
+
+
+2023-10-22 17:01:50.516  4707-4707  MainActivity            com.example.quizexercise1            D  Called lifecycle method : onStart
+2023-10-22 17:01:50.526  4707-4707  MainActivity            com.example.quizexercise1            D  Called lifecycle method: onResume
+
+obrocenie ekranu:
+2023-10-22 17:03:00.793  4707-4707  MainActivity            com.example.quizexercise1            D  Called lifecycle method: onPause
+2023-10-22 17:03:00.832  4707-4707  MainActivity            com.example.quizexercise1            D  Called lifecycle method: onStop
+2023-10-22 17:03:00.835  4707-4707  MainActivity            com.example.quizexercise1            D  Called lifecycle method: onDestroy
+2023-10-22 17:03:01.015  4707-4707  MainActivity            com.example.quizexercise1            D  Called lifecycle method : onStart
+2023-10-22 17:03:01.033  4707-4707  MainActivity            com.example.quizexercise1            D  Called lifecycle method: onResume
+
+
+Po zmianach:
+	uruchomienie:
+2023-10-22 20:09:13.152  3123-3123  MainActivity            com.example.quizexercise1            D  Called lifecycle method: onCreate
+2023-10-22 20:09:13.178  3123-3123  MainActivity            com.example.quizexercise1            D  Called lifecycle method : onStart
+2023-10-22 20:09:13.180  3123-3123  MainActivity            com.example.quizexercise1            D  Called lifecycle method: onResume 
+
+	obrocenie ekranu:
+2023-10-22 20:10:24.817  3123-3123  MainActivity            com.example.quizexercise1            D  Called lifecycle method: onCreate
+2023-10-22 20:10:24.821  3123-3123  MainActivity            com.example.quizexercise1            D  Called lifecycle method : onStart
+2023-10-22 20:10:24.822  3123-3123  MainActivity            com.example.quizexercise1            D  Called lifecycle method: onResume
+
